@@ -1,0 +1,22 @@
+@media (max-width: 480px) {
+
+    .form-wrapper {
+        margin-top: 10px;
+    }
+
+    .form-wrapper>p {
+        margin-top: 10px;
+        color: lightgray;
+    }
+
+    .form-wrapper>h3 {
+        color: gray;
+    }
+
+    .enq-form>input {
+        width: 90%;
+        margin-bottom: 10px;
+    }
+
+
+}

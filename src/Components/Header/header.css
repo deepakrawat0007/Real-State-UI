@@ -1,0 +1,24 @@
+@media (max-width: 480px) {
+.head-wrapper{
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    border-bottom: 1px solid gray;
+    box-shadow: 0 1px lightblue;
+}
+
+.btns > button{
+    border: 0;
+    border-left: 1px solid gray;
+}
+.head-wrapper > img{
+margin-right: auto;
+
+}
+.btns > button:hover{
+ background-color: lightblue;
+    
+}
+
+  }
