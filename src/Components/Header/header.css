@@ -9,6 +9,7 @@
 }
 
 .btns > button{
+    height: 8vh;
     border: 0;
     border-left: 1px solid gray;
 }
